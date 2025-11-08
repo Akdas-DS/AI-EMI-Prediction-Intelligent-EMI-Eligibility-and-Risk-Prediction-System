@@ -6,11 +6,7 @@ xgboost
 
 # Visualization and EDA
 matplotlib
-<<<<<<< HEAD
-seaborn=
-=======
 seaborn
->>>>>>> f40db0ddd285769a959bd5e4e7aaec853438714c
 
 # Model tracking (optional)
 mlflow
