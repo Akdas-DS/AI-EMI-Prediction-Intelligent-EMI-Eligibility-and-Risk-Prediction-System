@@ -1,23 +1,23 @@
 # Core Python dependencies
-numpy==1.26.4
-pandas==2.2.2
-scikit-learn==1.5.2
-xgboost==2.1.1
+numpy
+pandas
+scikit-learn
+xgboost
 
 # Visualization and EDA
-matplotlib==3.9.2
-seaborn==0.13.2
+matplotlib
+seaborn=
 
 # Model tracking (optional)
-mlflow==2.15.0
+mlflow
 
 # App deployment
-streamlit==1.39.0
+streamlit
 
 # Utility and compatibility
-protobuf==5.28.2
-joblib==1.4.2
-plotly==5.24.1
+protobuf
+joblib
+plotly
 
 # Optional (if you use label encoding persistence)
-jsonschema==4.23.0
+jsonschema
